@@ -30,7 +30,7 @@ All features were normalized and bounded within [-1,1].
 ___
 **Data transformation**
 
-The raw data sets are processed with run_analisys.R script to create a tidy data set.
+The raw data sets are processed with run_analysis.R script to create a tidy data set.
 - Test and training data are merged to obtain a single data set. Variables are labelled according to fil features.txt from the data.
 - From the merged data set only the measurements on the mean and standard deviation for each measurement are extracted.
 - Activity names are replaced by the names of the activities in the set (according to activity_labels.txt from the data).
