@@ -30,3 +30,7 @@ ___
 
 - *CodeBook.md* ... description about variables, data and transformations performed in *run_analysis.R*
 - *run_analysis.R* ... R script to transform raw data set in a tidy one
+___
+**How to use it**
+
+Set your working directory to directory where the data *UCI HAR Dataset* and the script *run_analysis.R* are. Run script *source("run_analysis.R")*.
