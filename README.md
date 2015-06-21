@@ -32,7 +32,7 @@ ___
 **Files**
 
 - *CodeBook.md* ... description about variables, data and transformations performed in *run_analysis.R*
-- *run_analysis.R* ... R script to transform raw data set in a tidy one
+- *run_analysis.R* ... R script to transform raw data set into a tidy data set
 
 ___
 **How to use it**
