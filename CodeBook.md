@@ -31,9 +31,9 @@ ___
 **Data transformation**
 
 The raw data sets are processed with run_analysis.R script to create a tidy data set.
-- Test and training data are merged to obtain a single data set. Variables are labelled according to fil features.txt from the data.
+- Test and training data are merged to obtain a single data set. Variables are labelled according to the file features.txt from the data.
 - From the merged data set only the measurements on the mean and standard deviation for each measurement are extracted.
-- Activity names are replaced by the names of the activities in the set (according to activity_labels.txt from the data).
+- Activity names are replaced by the names of the activities in the set (according to activity_labels.txt file from the data).
 - Merged data set is labeled with descriptive variable names ("Acc"->"Accelerator", "Mag"->"Magnitude", "Gyro",->"Gyroscope","^t"->"time","^f"->"frequency", "BodyBody"->"Body", "tBody"->"timeBody").
 - To create *tiny_data.txt*. First, data$subject is set as factor variable. Second, tiny data is created as a data set with average for each activity and subject. Then, the enties in tidy data are orderes and written into data file *tidy_data.txt*.
 
