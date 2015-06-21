@@ -1,5 +1,5 @@
 # GettingandCleaningData_courseraProject
-========================================
+
 
 **Project Description**
 
@@ -11,10 +11,12 @@ algorithms to attract new users. The data linked to from the course website repr
 data collected from the accelerometers from the Samsung Galaxy S smartphone.
 A full description is available at the site where the data was obtained: [click]
 (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
 ___
 **Data**
 
 [Here] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) are the data for the project.
+
 ___
 **Instructions**
 
@@ -25,6 +27,7 @@ Create one R script called *run_analysis.R* that does the following:
 - Uses descriptive activity names to name the activities in the data set
 - Appropriately labels the data set with descriptive activity names. 
 - Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
 ___
 **Files**
 
