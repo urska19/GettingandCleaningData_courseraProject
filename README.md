@@ -37,4 +37,4 @@ ___
 ___
 **How to use it**
 
-Set your working directory to directory where the data *UCI HAR Dataset* and the script *run_analysis.R* are. Run script *source("run_analysis.R")*.
+Set your working directory to directory where the data *UCI HAR Dataset* and the script *run_analysis.R* are. Run script using *source("run_analysis.R")*.
