@@ -27,13 +27,8 @@ The set of variables that were estimated from these signals are:
 
 All features were normalized and bounded within [-1,1].
 
-__
+___
 **Data transformation**
-
-
-Appropriately labels the data set with descriptive variable names. 
-From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-
 
 The raw data sets are processed with run_analisys.R script to create a tidy data set.
 - Test and training data are merged to obtain a single data set. Variables are labelled according to fil features.txt from the data.
