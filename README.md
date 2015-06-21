@@ -1,5 +1,4 @@
 # GettingandCleaningData_courseraProject
-GettingandCleaningData_courseraProject
 ========================================
 
 **Project Description**
