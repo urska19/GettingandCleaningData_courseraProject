@@ -2,6 +2,7 @@
 ========================================
 
 **Project Description**
+
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
 
 One of the most exciting areas in all of data science right now is wearable computing.
@@ -12,9 +13,11 @@ A full description is available at the site where the data was obtained: [click]
 (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 ___
 **Data**
+
 [Here] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) are the data for the project.
 ___
 **Instructions**
+
 Create one R script called *run_analysis.R* that does the following:
 
 - Merges the training and the test sets to create one data set.
